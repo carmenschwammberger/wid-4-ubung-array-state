@@ -4,7 +4,7 @@ import { useState } from "react";
 function App() {
   return (
     <div id="app">
-      <header>Übung WID 4 - Array State </header>
+      <header>Übung WID 4- Array State </header>
       <h2> Todo-Liste</h2>
       <div id="container">
         {/* ---- Hinzufügen von Todos ----  */}
